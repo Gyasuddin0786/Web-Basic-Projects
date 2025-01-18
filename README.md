@@ -6,6 +6,7 @@ This repository contains three basic web projects designed for beginners to prac
 1. **To-Do List App**
 2. **Landing Page**
 3. **Portfolio Website**
+4. **Calculator App**
 
 ---
 
@@ -14,9 +15,10 @@ This repository contains three basic web projects designed for beginners to prac
 1. [To-Do List App](#to-do-list-app)
 2. [Landing Page](#landing-page)
 3. [Portfolio Website](#portfolio-website)
-4. [How to Run the Projects](#how-to-run-the-projects)
-5. [Technologies Used](#technologies-used)
-6. [Screenshots](#screenshots)
+4. [Calculator App](#Calculator-App)
+5. [How to Run the Projects](#how-to-run-the-projects)
+6. [Technologies Used](#technologies-used)
+7. [Screenshots](#screenshots)
 
 ---
 
@@ -90,6 +92,7 @@ A modern portfolio website template to showcase personal or professional achieve
 - Contact form with a functional submission feature.
 
 ---
+## Calculator App
 
 ## How to Run the Projects
 
@@ -135,6 +138,9 @@ A modern portfolio website template to showcase personal or professional achieve
 ![image](https://github.com/user-attachments/assets/acfa6ed4-a284-40fc-b48b-445fbc409c85)
 
 ---
+### Calculator App:
+![image](https://github.com/user-attachments/assets/e44ab1c2-f3b5-4440-a59f-be8c7fe6a616)
+![image](https://github.com/user-attachments/assets/5a54212c-5393-4bd1-89cb-1283deadd84e)
 
 ## Feedback and Contributions
 
