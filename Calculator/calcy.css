@@ -1,0 +1,25 @@
+body {
+    background-color: #bdbec0;
+}
+
+.calculator {
+    max-width: 400px;
+    margin: auto;
+    margin-top: 140px;
+}
+
+#display {
+    font-size: 1.5rem;
+    text-align: right;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.btn {
+    font-size: 1.2rem;
+    border-radius: 5px;
+}
+.btn{
+    background-color: blue;
+}
