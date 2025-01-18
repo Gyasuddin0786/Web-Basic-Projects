@@ -100,7 +100,7 @@ A modern portfolio website template to showcase personal or professional achieve
 
 2. Navigate to the respective project folder:
    ```bash
-   cd to-do-list
+   cd ToDo
    ```
 
 3. Open the `index.html` file in any modern web browser.
@@ -120,19 +120,15 @@ A modern portfolio website template to showcase personal or professional achieve
 ---
 
 ## Screenshots
-![{D9E96FFF-EE74-4E73-ADF0-1BCB7A279872}](https://github.com/user-attachments/assets/a14016e0-5311-4b8f-9970-2c9d7459fc31)
 ![image](https://github.com/user-attachments/assets/1e6856fc-85ac-4984-9dd2-e1ece253400b)
 
 ### To-Do List App:
 ![To-Do List Screenshot](https://via.placeholder.com/800x400?text=To-Do+List+App)
 
 ### Landing Page:
-![Landing Page Screenshot](https://via.placeholder.com/800x400?text=Landing+Page)
-
 ![image](https://github.com/user-attachments/assets/e23b37b6-f8bc-42c2-8499-20b0449bb031)
 
 ### Portfolio Website:
-![Portfolio Screenshot](https://via.placeholder.com/800x400?text=Portfolio+Website)
 ![image](https://github.com/user-attachments/assets/acfa6ed4-a284-40fc-b48b-445fbc409c85)
 
 ---
