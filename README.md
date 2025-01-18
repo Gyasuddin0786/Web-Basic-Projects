@@ -127,6 +127,9 @@ A modern portfolio website template to showcase personal or professional achieve
 
 ### Landing Page:
 ![image](https://github.com/user-attachments/assets/e23b37b6-f8bc-42c2-8499-20b0449bb031)
+![image](https://github.com/user-attachments/assets/efd0ed13-b04d-4458-a0af-728cb6c728b6)
+![image](https://github.com/user-attachments/assets/1d9080a6-5e22-4fa3-8f4a-0a269a70cac6)
+![image](https://github.com/user-attachments/assets/24cdf702-1e4d-415b-b2e0-b3ce218120a4)
 
 ### Portfolio Website:
 ![image](https://github.com/user-attachments/assets/acfa6ed4-a284-40fc-b48b-445fbc409c85)
