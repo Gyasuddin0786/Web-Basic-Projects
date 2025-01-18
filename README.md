@@ -95,7 +95,7 @@ A modern portfolio website template to showcase personal or professional achieve
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-link.git
+   git clone git@github.com:Gyasuddin0786/Web-Basic-Projects.git
    ```
 
 2. Navigate to the respective project folder:
